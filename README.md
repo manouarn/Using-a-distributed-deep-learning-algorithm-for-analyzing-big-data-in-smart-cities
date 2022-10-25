@@ -1,0 +1,1 @@
+# Using-a-distributed-deep-learning-algorithm-for-analyzing-big-data-in-smart-cities
